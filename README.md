@@ -1,0 +1,2 @@
+# faintlight.github.com
+BLOG
